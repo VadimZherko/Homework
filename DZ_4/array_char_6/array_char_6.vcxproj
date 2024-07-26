@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a8499584-2843-4de1-85bc-75676488feb0}</ProjectGuid>
-    <RootNamespace>sortirovOchka</RootNamespace>
+    <ProjectGuid>{fdc40b64-60f5-427a-9bb2-94efef4aecd7}</ProjectGuid>
+    <RootNamespace>arraychar6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
